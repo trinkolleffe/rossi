@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="ISO-8859-1" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover"
+    />
+  </head>
+
+  <body>
+    <div id="viz-wrapper">
+      <div id="scroller">
+        <div id="viz-info">
+          <div class="viz-info-flex season">
+            <div class="viz-info-year">1996</div>
+            <div class="viz-info-bike">Aprilia RS 125 R</div>
+          </div>
+          <div class="viz-info-flex podiums">
+            <div class="viz-info-podiums-label">Podi stagione</div>
+            <div class="viz-info-podiums-content"></div>
+          </div>
+        </div>
+        <div class="viz_area">
+          <div id="radar-chart"></div>
+          <div id="bubble"></div>
+          <div id="bar-chart">
+            <div class="bar-label">Colori della tuta</div>
+          </div>
+          <div id="legend">
+            <div class="legend-title">Legenda</div>
+            <div class="legend-content">
+              <div class="legend-row">
+                <div class="legend-row-symbol">
+                  <div class="legend-dot gold">1</div>
+                  <div class="legend-dot silver">2</div>
+                  <div class="legend-dot bronze">3</div>
+                </div>
+                <div class="legend-row-label">
+                  <span>= posizione sul podio</span>
+                </div>
+              </div>
+              <div class="legend-row">
+                <div class="legend-row-symbol">
+                  <div class="legend-dot">4</div>
+                  <div class="legend-dot">5</div>
+                  <div class="legend-dot">6</div>
+                </div>
+                <div class="legend-row-label">
+                  <span>= altre posizioni</span>
+                </div>
+              </div>
+              <div class="legend-row">
+                <div class="legend-row-symbol">
+                  <div class="legend-dot">N</div>
+                </div>
+                <div class="legend-row-label">
+                  <span>= non partito</span>
+                </div>
+              </div>
+              <div class="legend-row">
+                <div class="legend-row-symbol">
+                  <div class="legend-dot">G</div>
+                </div>
+                <div class="legend-row-label">
+                  <span>= gara annullata</span>
+                </div>
+              </div>
+              <div class="legend-row">
+                <div class="legend-row-symbol">
+                  <div class="legend-dot">R</div>
+                </div>
+                <div class="legend-row-label">
+                  <span>= ritirato</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script charset="utf-8" src="src/index.js"></script>
+  </body>
+</html>

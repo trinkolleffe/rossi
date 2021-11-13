@@ -1,0 +1,5740 @@
+[
+  {
+    "year": 1996,
+    "position": 9,
+    "points": 111,
+    "bike": "Aprilia RS 125 R",
+    "races_number": 15,
+    "podiums": {
+      "gold": 1,
+      "silver": 0,
+      "bronze": 1
+    },
+    "races": [
+      {
+        "id": "65a6fd6e-c5ca-46d9-be56-8c7f27afc4ae",
+        "series": 1996,
+        "race_position": 6,
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 1,
+          "name": "Malesia",
+          "symbol": "Mal"
+        }
+      },
+      {
+        "id": "daa05ecc-ce10-4775-8bfb-78a3db1ae912",
+        "series": 1996,
+        "race_position": 11,
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 2,
+          "name": "Indonesia",
+          "symbol": "Ind"
+        }
+      },
+      {
+        "id": "71e4d136-15cb-4fee-a2ca-94f2145e88f8",
+        "series": 1996,
+        "race_position": 11,
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 3,
+          "name": "Giappone",
+          "symbol": "Gia"
+        }
+      },
+      {
+        "id": "56942b91-a0fb-4497-8464-c143a5551c3d",
+        "series": 1996,
+        "race_position": 4,
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 4,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "07c827c2-02e4-466e-bbc0-d36ecbdea5d9",
+        "series": 1996,
+        "race_position": 4,
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 5,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "347e3a36-1ded-45f3-aef1-470054d2016b",
+        "series": 1996,
+        "race_position": "rit",
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 6,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "80139b39-7ae3-43f3-9cec-9be23f6cfb54",
+        "series": 1996,
+        "race_position": "rit",
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 7,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "8709be2c-2e32-49d0-b895-2978a44ac487",
+        "series": 1996,
+        "race_position": 5,
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 8,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "caef02e4-2b69-45c8-a11b-d7081968e08b",
+        "series": 1996,
+        "race_position": "rit",
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 9,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "ba10dc40-457a-4ede-8f31-a65868094ace",
+        "series": 1996,
+        "race_position": 3,
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 10,
+          "name": "Austria",
+          "symbol": "Aut"
+        }
+      },
+      {
+        "id": "51242764-c881-4564-bcec-72b268389620",
+        "series": 1996,
+        "race_position": 1,
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 11,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "b3755438-f125-45cd-a821-a9c12ab0826a",
+        "series": 1996,
+        "race_position": 5,
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 12,
+          "name": "Imola",
+          "symbol": "Imo"
+        }
+      },
+      {
+        "id": "252a4efa-663d-4be8-8fbf-be936cb3db7e",
+        "series": 1996,
+        "race_position": "rit",
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 13,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "6a3e5fdf-12b6-4501-a27d-96460b3bb77c",
+        "series": 1996,
+        "race_position": "rit",
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 14,
+          "name": "Rio de Janeiro",
+          "symbol": "Rio"
+        }
+      },
+      {
+        "id": "466f9dfd-4c26-4a7c-be18-4a53f00d539f",
+        "series": 1996,
+        "race_position": 14,
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 15,
+          "name": "Australia",
+          "symbol": "Aus"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#FFF254",
+        "percentage": 50
+      },
+      {
+        "key": "colore_2",
+        "colour": "#373535",
+        "percentage": 42
+      },
+      {
+        "key": "colore_3",
+        "colour": "#0095D4",
+        "percentage": 8
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "position": 1,
+    "points": 321,
+    "bike": "Aprilia RS 125 R",
+    "races_number": 15,
+    "podiums": {
+      "gold": 11,
+      "silver": 1,
+      "bronze": 1
+    },
+    "races": [
+      {
+        "id": "b23dd6d3-826e-4eff-a4b0-c5b248972798",
+        "series": 1997,
+        "race_position": 1,
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 1,
+          "name": "Malesia",
+          "symbol": "Mal"
+        }
+      },
+      {
+        "id": "81c7ad8d-f675-4f25-b278-d67e1149b65b",
+        "series": 1997,
+        "race_position": "rit",
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 2,
+          "name": "Giappone",
+          "symbol": "Gia"
+        }
+      },
+      {
+        "id": "1246da32-f8e8-41e3-b44f-c57118c49488",
+        "series": 1997,
+        "race_position": 1,
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 3,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "0f7bcb82-6455-4cde-83df-4faf1c43f2b3",
+        "series": 1997,
+        "race_position": 1,
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 4,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "90f5e3b5-d796-465c-bbc8-bdf3721dc648",
+        "series": 1997,
+        "race_position": 2,
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 5,
+          "name": "Austria",
+          "symbol": "Aut"
+        }
+      },
+      {
+        "id": "666fdddd-c01a-4273-b1b1-2ba8a7422178",
+        "series": 1997,
+        "race_position": 1,
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 6,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "fb176d2d-1269-49d0-8cb2-bb16621a2fca",
+        "series": 1997,
+        "race_position": 1,
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 7,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "6200adda-65c5-4957-8bbb-7aabdf13484d",
+        "series": 1997,
+        "race_position": 1,
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 8,
+          "name": "Imola",
+          "symbol": "Imo"
+        }
+      },
+      {
+        "id": "b7535733-696b-4677-8959-72cc5f0c4b5e",
+        "series": 1997,
+        "race_position": 1,
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 9,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "6a2c6925-fb86-49a6-89f5-c3014608ab9b",
+        "series": 1997,
+        "race_position": 1,
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 10,
+          "name": "Rio de Janeiro",
+          "symbol": "Rio"
+        }
+      },
+      {
+        "id": "ed214350-b71f-4788-bf6a-96a058d99571",
+        "series": 1997,
+        "race_position": 1,
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 11,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "1a10e163-31ee-483f-9e01-95796c8f7151",
+        "series": 1997,
+        "race_position": 3,
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 12,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "7373f876-9208-4ae4-a971-e536eec3144b",
+        "series": 1997,
+        "race_position": 1,
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 13,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "394849af-7c17-4ff6-9448-da05a40f53f6",
+        "series": 1997,
+        "race_position": 1,
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 14,
+          "name": "Indonesia",
+          "symbol": "Ind"
+        }
+      },
+      {
+        "id": "75081bb9-bca2-406c-a677-68df7b6d02de",
+        "series": 1997,
+        "race_position": 6,
+        "bike": "Aprilia RS 125 R",
+        "track": {
+          "order": 15,
+          "name": "Australia",
+          "symbol": "Aus"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#2A66AB",
+        "percentage": 42
+      },
+      {
+        "key": "colore_2",
+        "colour": "#373535",
+        "percentage": 32
+      },
+      {
+        "key": "colore_3",
+        "colour": "#DA4541",
+        "percentage": 14
+      },
+      {
+        "key": "colore_4",
+        "colour": "#FFF254",
+        "percentage": 12
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "position": 2,
+    "points": 201,
+    "bike": "Aprilia RSW 250",
+    "races_number": 14,
+    "podiums": {
+      "gold": 5,
+      "silver": 3,
+      "bronze": 1
+    },
+    "races": [
+      {
+        "id": "74851d1d-9fc5-4f97-8f78-6743c3b58d35",
+        "series": 1998,
+        "race_position": "rit",
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 1,
+          "name": "Giappone",
+          "symbol": "Gia"
+        }
+      },
+      {
+        "id": "d8fb2ef8-dc12-4dd7-8edd-45157506f9d8",
+        "series": 1998,
+        "race_position": "rit",
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 2,
+          "name": "Malesia",
+          "symbol": "Mal"
+        }
+      },
+      {
+        "id": "3e9a9fa5-1e09-43b7-bb7b-a765ae4e2d1c",
+        "series": 1998,
+        "race_position": 2,
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 3,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "d6704d70-5f3b-4e9d-ad87-4f324408a2c1",
+        "series": 1998,
+        "race_position": 2,
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 4,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "14f6de9d-a520-4400-a61a-3b704ee6c4b4",
+        "series": 1998,
+        "race_position": 2,
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 5,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "c8513b34-0df0-4e50-85e1-d7cbb8d17279",
+        "series": 1998,
+        "race_position": "rit",
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 6,
+          "name": "Madrid",
+          "symbol": "Mad"
+        }
+      },
+      {
+        "id": "e1dac997-0ef0-4578-bf65-8c39f0917dc4",
+        "series": 1998,
+        "race_position": 1,
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 7,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "46d2b1e8-0e7e-4e7c-a884-c2b367849762",
+        "series": 1998,
+        "race_position": "rit",
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 8,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "7b26d3b1-ef35-4380-862d-fc60fce34de9",
+        "series": 1998,
+        "race_position": 3,
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 9,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "375be112-8c6c-40ff-86f1-ab78b4194779",
+        "series": 1998,
+        "race_position": "rit",
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 10,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "2cdd394f-ca06-4c0c-9ee3-582d5b3f3a0c",
+        "series": 1998,
+        "race_position": 1,
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 11,
+          "name": "Imola",
+          "symbol": "Imo"
+        }
+      },
+      {
+        "id": "b44fee66-6a63-4d89-bc33-83625d2ec95a",
+        "series": 1998,
+        "race_position": 1,
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 12,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "ab73375f-908d-48da-8749-ad51ca0b7528",
+        "series": 1998,
+        "race_position": 1,
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 13,
+          "name": "Australia",
+          "symbol": "Aus"
+        }
+      },
+      {
+        "id": "45db8f04-a0b2-49ca-8116-7606372b7702",
+        "series": 1998,
+        "race_position": 1,
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 14,
+          "name": "Argentina",
+          "symbol": "Arg"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#373535",
+        "percentage": 45
+      },
+      {
+        "key": "colore_2",
+        "colour": "#DA4541",
+        "percentage": 35
+      },
+      {
+        "key": "colore_3",
+        "colour": "#FFF254",
+        "percentage": 20
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "position": 1,
+    "points": 309,
+    "bike": "Aprilia RSW 250",
+    "races_number": 16,
+    "podiums": {
+      "gold": 9,
+      "silver": 2,
+      "bronze": 1
+    },
+    "races": [
+      {
+        "id": "626f50cb-1af7-4db4-98fa-ca9c48762899",
+        "series": 1999,
+        "race_position": 5,
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 1,
+          "name": "Malesia",
+          "symbol": "Mal"
+        }
+      },
+      {
+        "id": "19343f0f-7063-4c07-9d2a-055ca6ca5442",
+        "series": 1999,
+        "race_position": 7,
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 2,
+          "name": "Giappone",
+          "symbol": "Gia"
+        }
+      },
+      {
+        "id": "cc12709f-2c80-448a-8156-61607ca2ffa6",
+        "series": 1999,
+        "race_position": 1,
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 3,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "17fb5985-e3ec-4b09-af7e-6f2ec64cc855",
+        "series": 1999,
+        "race_position": "rit",
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 4,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "cde43cea-bb69-4978-af3a-4e2db5a1f50b",
+        "series": 1999,
+        "race_position": 1,
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 5,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "f0dd8be3-96f2-454d-8a3f-3a6e23307a22",
+        "series": 1999,
+        "race_position": 1,
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 6,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "07e74105-723c-429b-b1c8-af3c6a510314",
+        "series": 1999,
+        "race_position": 2,
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 7,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "ed319eab-84fa-4f0d-bb7f-394b67519556",
+        "series": 1999,
+        "race_position": 1,
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 8,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "c3c004cd-665f-4009-b138-b964535fe76d",
+        "series": 1999,
+        "race_position": 1,
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 9,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "4315d5b6-c4fd-4857-98e2-9f942d46119b",
+        "series": 1999,
+        "race_position": 1,
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 10,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "7625721d-ba49-4a7f-8c73-86a59b31133e",
+        "series": 1999,
+        "race_position": 2,
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 11,
+          "name": "Imola",
+          "symbol": "Imo"
+        }
+      },
+      {
+        "id": "87756d24-d90b-47dd-ae09-d005a91127d3",
+        "series": 1999,
+        "race_position": 8,
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 12,
+          "name": "C. Valenciana",
+          "symbol": "Val"
+        }
+      },
+      {
+        "id": "cc989750-2fac-4e10-b224-5c551d125fce",
+        "series": 1999,
+        "race_position": 1,
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 13,
+          "name": "Australia",
+          "symbol": "Aus"
+        }
+      },
+      {
+        "id": "01a9d196-c330-42cf-be99-696f0f862349",
+        "series": 1999,
+        "race_position": 1,
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 14,
+          "name": "Sudafrica",
+          "symbol": "Saf"
+        }
+      },
+      {
+        "id": "b33a6695-25f9-4844-bfd5-8eaaa2896cc0",
+        "series": 1999,
+        "race_position": 1,
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 15,
+          "name": "Rio de Janeiro",
+          "symbol": "Rio"
+        }
+      },
+      {
+        "id": "75a73b1c-861e-401a-8301-5f709d39618f",
+        "series": 1999,
+        "race_position": 3,
+        "bike": "Aprilia RSW 250",
+        "track": {
+          "order": 16,
+          "name": "Argentina",
+          "symbol": "Arg"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#373535",
+        "percentage": 30
+      },
+      {
+        "key": "colore_2",
+        "colour": "#DA4541",
+        "percentage": 30
+      },
+      {
+        "key": "colore_3",
+        "colour": "#FFF254",
+        "percentage": 25
+      },
+      {
+        "key": "colore_4",
+        "colour": "#FEFEFE",
+        "percentage": 15
+      }
+    ]
+  },
+  {
+    "year": 2000,
+    "position": 2,
+    "points": 209,
+    "bike": "Honda NSR 500",
+    "races_number": 16,
+    "podiums": {
+      "gold": 2,
+      "silver": 3,
+      "bronze": 5
+    },
+    "races": [
+      {
+        "id": "0937cd9a-5513-4e7b-b47a-6542a598be9b",
+        "series": 2000,
+        "race_position": "rit",
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 1,
+          "name": "Sudafrica",
+          "symbol": "Saf"
+        }
+      },
+      {
+        "id": "1c9751be-165b-4729-b704-22b8ff58d99b",
+        "series": 2000,
+        "race_position": "rit",
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 2,
+          "name": "Malesia",
+          "symbol": "Mal"
+        }
+      },
+      {
+        "id": "06b4094d-d774-46b1-80c6-6fdec2613752",
+        "series": 2000,
+        "race_position": 11,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 3,
+          "name": "Giappone",
+          "symbol": "Gia"
+        }
+      },
+      {
+        "id": "a85cf991-9ded-487f-8f5c-c4d5c4082cb7",
+        "series": 2000,
+        "race_position": 3,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 4,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "5687f5ea-dd3b-415e-a913-9bd1cada92d0",
+        "series": 2000,
+        "race_position": 3,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 5,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "ae021dec-eb66-4f17-b3c2-d7b49ed7f9d8",
+        "series": 2000,
+        "race_position": 12,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 6,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "ae8a3e77-b8b4-4f82-ba06-de475270d882",
+        "series": 2000,
+        "race_position": 3,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 7,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "952d3ce0-15f5-4250-8b72-55fcfa146d2a",
+        "series": 2000,
+        "race_position": 6,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 8,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "4e4aa65f-4c66-4c1f-a086-fd3901e8dcb2",
+        "series": 2000,
+        "race_position": 1,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 9,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "17ea1402-32be-4079-85bf-669ca6421c0e",
+        "series": 2000,
+        "race_position": 2,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 10,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "fc239843-b0ce-4e0d-87ae-554d7bdb776c",
+        "series": 2000,
+        "race_position": 2,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 11,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "e02614c7-8ae9-4eaf-884d-c7cc51d75aa4",
+        "series": 2000,
+        "race_position": 3,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 12,
+          "name": "Portogallo",
+          "symbol": "Por"
+        }
+      },
+      {
+        "id": "be4e5fe8-5099-4c5c-8ab2-f1e36cb6860a",
+        "series": 2000,
+        "race_position": "rit",
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 13,
+          "name": "C. Valenciana",
+          "symbol": "Val"
+        }
+      },
+      {
+        "id": "4b119c79-d147-4508-b47d-52273a1f3a63",
+        "series": 2000,
+        "race_position": 1,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 14,
+          "name": "Rio de Janeiro",
+          "symbol": "Rio"
+        }
+      },
+      {
+        "id": "c4fe1cd8-bcbf-4820-a623-b43bbee468be",
+        "series": 2000,
+        "race_position": 2,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 15,
+          "name": "Pacifico",
+          "symbol": "Pac"
+        }
+      },
+      {
+        "id": "a831eac7-626c-4a31-a76b-a5f3f15ee7a9",
+        "series": 2000,
+        "race_position": 3,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 16,
+          "name": "Australia",
+          "symbol": "Aus"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#FFF254",
+        "percentage": 65
+      },
+      {
+        "key": "colore_2",
+        "colour": "#373535",
+        "percentage": 35
+      }
+    ]
+  },
+  {
+    "year": 2001,
+    "position": 1,
+    "points": 325,
+    "bike": "Honda NSR 500",
+    "races_number": 16,
+    "podiums": {
+      "gold": 11,
+      "silver": 1,
+      "bronze": 1
+    },
+    "races": [
+      {
+        "id": "cac86e7b-e747-4530-883e-7f20f823ec47",
+        "series": 2001,
+        "race_position": 1,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 1,
+          "name": "Giappone",
+          "symbol": "Gia"
+        }
+      },
+      {
+        "id": "89ac5d57-1d51-48b1-a631-da28817b04d4",
+        "series": 2001,
+        "race_position": 1,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 2,
+          "name": "Sudafrica",
+          "symbol": "Saf"
+        }
+      },
+      {
+        "id": "77707748-0eee-4240-9ef9-f0a1aaa90cbb",
+        "series": 2001,
+        "race_position": 1,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 3,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "bc59a816-0742-4aca-93c8-fad0bb4c5f6b",
+        "series": 2001,
+        "race_position": 3,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 4,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "dc6f2064-8170-4d25-8d88-c42ad3c091c3",
+        "series": 2001,
+        "race_position": "rit",
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 5,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "754bc343-3ad5-4808-b89d-3257b6b27a84",
+        "series": 2001,
+        "race_position": 1,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 6,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "54f83ec0-2be2-4d4b-850c-d4ef6009d3a2",
+        "series": 2001,
+        "race_position": 2,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 7,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "a1f5d287-5818-428c-86e7-0e8dc5bf276a",
+        "series": 2001,
+        "race_position": 1,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 8,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "05afb0e8-4c89-4afe-9ea3-2ba409f87223",
+        "series": 2001,
+        "race_position": 7,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 9,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "57796381-531c-4374-adae-ddec6b2209fe",
+        "series": 2001,
+        "race_position": 1,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 10,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "c50669a5-cb6d-4bb8-be2a-58f7551d26fc",
+        "series": 2001,
+        "race_position": 1,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 11,
+          "name": "Portogallo",
+          "symbol": "Por"
+        }
+      },
+      {
+        "id": "01081b4b-096f-4af9-b764-b424620b3cac",
+        "series": 2001,
+        "race_position": 11,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 12,
+          "name": "C. Valenciana",
+          "symbol": "Val"
+        }
+      },
+      {
+        "id": "9b175b51-a978-4cab-bb35-4c65076cad7d",
+        "series": 2001,
+        "race_position": 1,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 13,
+          "name": "Pacifico",
+          "symbol": "Pac"
+        }
+      },
+      {
+        "id": "ece738e9-65b8-491f-9351-12e45b075c33",
+        "series": 2001,
+        "race_position": 1,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 14,
+          "name": "Australia",
+          "symbol": "Aus"
+        }
+      },
+      {
+        "id": "97479ba7-0fc2-499b-9403-8c9c4c197233",
+        "series": 2001,
+        "race_position": 1,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 15,
+          "name": "Malesia",
+          "symbol": "Mal"
+        }
+      },
+      {
+        "id": "0efe011a-fa11-4a0c-b8c7-aa68420d5a68",
+        "series": 2001,
+        "race_position": 1,
+        "bike": "Honda NSR 500",
+        "track": {
+          "order": 16,
+          "name": "Rio de Janeiro",
+          "symbol": "Rio"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#FFF254",
+        "percentage": 65
+      },
+      {
+        "key": "colore_2",
+        "colour": "#373535",
+        "percentage": 35
+      }
+    ]
+  },
+  {
+    "year": 2002,
+    "position": 1,
+    "points": 355,
+    "bike": "Honda RC211V",
+    "races_number": 16,
+    "podiums": {
+      "gold": 11,
+      "silver": 4,
+      "bronze": 0
+    },
+    "races": [
+      {
+        "id": "8083ac98-d3e0-49e9-b77e-98969f95893c",
+        "series": 2002,
+        "race_position": 1,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 1,
+          "name": "Giappone",
+          "symbol": "Gia"
+        }
+      },
+      {
+        "id": "57bf7d7c-25f7-440c-9efd-24ef1d4d5c7f",
+        "series": 2002,
+        "race_position": 2,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 2,
+          "name": "Sudafrica",
+          "symbol": "Saf"
+        }
+      },
+      {
+        "id": "4f68f890-af34-47af-8665-635eeca09964",
+        "series": 2002,
+        "race_position": 1,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 3,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "7ab390a6-2888-4781-8f8d-0105a6966dd3",
+        "series": 2002,
+        "race_position": 1,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 4,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "5c9a9ac8-7505-4800-b4e1-1ea737458f95",
+        "series": 2002,
+        "race_position": 1,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 5,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "d9cfdbe5-2371-493e-a2a4-2f6c8b1249b1",
+        "series": 2002,
+        "race_position": 1,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 6,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "22701d12-242c-422c-b12f-632dda8270b0",
+        "series": 2002,
+        "race_position": 1,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 7,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "b3a58519-1d5d-4eec-9b91-d743ff2944ea",
+        "series": 2002,
+        "race_position": 1,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 8,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "3ad76ed3-7c15-4e11-9b50-48bfd3b603b3",
+        "series": 2002,
+        "race_position": 1,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 9,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "84026deb-13ca-4e61-8091-7eff64c5f824",
+        "series": 2002,
+        "race_position": "rit",
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 10,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "503b7c6f-a301-4496-850c-814b7ec2a3ee",
+        "series": 2002,
+        "race_position": 1,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 11,
+          "name": "Portogallo",
+          "symbol": "Por"
+        }
+      },
+      {
+        "id": "cc76452d-de5f-4001-a263-2db49b6719f4",
+        "series": 2002,
+        "race_position": 1,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 12,
+          "name": "Rio de Janeiro",
+          "symbol": "Rio"
+        }
+      },
+      {
+        "id": "a4ee0934-e01c-4834-ac61-307a66e2b408",
+        "series": 2002,
+        "race_position": 2,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 13,
+          "name": "Pacifico",
+          "symbol": "Pac"
+        }
+      },
+      {
+        "id": "2aacd6cd-082b-4380-865e-b99c6f4cfd12",
+        "series": 2002,
+        "race_position": 2,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 14,
+          "name": "Malesia",
+          "symbol": "Mal"
+        }
+      },
+      {
+        "id": "32bb20e6-5642-41a2-929e-fb2a57243337",
+        "series": 2002,
+        "race_position": 1,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 15,
+          "name": "Australia",
+          "symbol": "Aus"
+        }
+      },
+      {
+        "id": "72858bbc-dbb1-4308-a13f-a9b94f532988",
+        "series": 2002,
+        "race_position": 2,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 16,
+          "name": "C. Valenciana",
+          "symbol": "Val"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#FFF254",
+        "percentage": 25
+      },
+      {
+        "key": "colore_2",
+        "colour": "#2D3768",
+        "percentage": 25
+      },
+      {
+        "key": "colore_3",
+        "colour": "#FEFEFE",
+        "percentage": 35
+      },
+      {
+        "key": "colore_4",
+        "colour": "#E79349",
+        "percentage": 10
+      },
+      {
+        "key": "colore_5",
+        "colour": "#DA4541",
+        "percentage": 5
+      }
+    ]
+  },
+  {
+    "year": 2003,
+    "position": 1,
+    "points": 357,
+    "bike": "Honda RC211V",
+    "races_number": 16,
+    "podiums": {
+      "gold": 9,
+      "silver": 5,
+      "bronze": 2
+    },
+    "races": [
+      {
+        "id": "307a0881-9e1d-4bff-ab9a-45ee325487d6",
+        "series": 2003,
+        "race_position": 1,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 1,
+          "name": "Giappone",
+          "symbol": "Gia"
+        }
+      },
+      {
+        "id": "4919f275-3ce5-4a7e-b1ca-b83c51bb000a",
+        "series": 2003,
+        "race_position": 2,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 2,
+          "name": "Sudafrica",
+          "symbol": "Saf"
+        }
+      },
+      {
+        "id": "03809a4f-4337-46cd-953e-d414030a4f0a",
+        "series": 2003,
+        "race_position": 1,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 3,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "c1beabae-5408-44f8-8230-d34e1085ee32",
+        "series": 2003,
+        "race_position": 2,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 4,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "4380f9cf-2de5-4a86-993f-4b594e7e0293",
+        "series": 2003,
+        "race_position": 1,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 5,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "7317fe0a-e641-46af-9bd4-1f2d09bfa72e",
+        "series": 2003,
+        "race_position": 2,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 6,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "08e59b66-db83-4805-a5b2-adda5a3605a8",
+        "series": 2003,
+        "race_position": 3,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 7,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "b24c76d3-97a8-4581-bcab-b93b825a13aa",
+        "series": 2003,
+        "race_position": 3,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 8,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "faade0e7-532d-4062-ae59-259e17997e6b",
+        "series": 2003,
+        "race_position": 2,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 9,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "c4799624-9cc0-4e14-9479-acf7596f48cc",
+        "series": 2003,
+        "race_position": 1,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 10,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "64e7dd04-5ea1-4799-925b-a06833e550d1",
+        "series": 2003,
+        "race_position": 1,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 11,
+          "name": "Portogallo",
+          "symbol": "Por"
+        }
+      },
+      {
+        "id": "96330a21-8558-498f-b902-c01e8060ed9e",
+        "series": 2003,
+        "race_position": 1,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 12,
+          "name": "Rio de Janeiro",
+          "symbol": "Rio"
+        }
+      },
+      {
+        "id": "24ea6b94-0157-4bc1-bf12-ce5e1a462fd9",
+        "series": 2003,
+        "race_position": 2,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 13,
+          "name": "Pacifico",
+          "symbol": "Pac"
+        }
+      },
+      {
+        "id": "9a5c791f-43dd-4760-93b3-970e6c3b8811",
+        "series": 2003,
+        "race_position": 1,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 14,
+          "name": "Malesia",
+          "symbol": "Mal"
+        }
+      },
+      {
+        "id": "b6db9c9e-4e8c-42e0-9698-753d677c2f3e",
+        "series": 2003,
+        "race_position": 1,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 15,
+          "name": "Australia",
+          "symbol": "Aus"
+        }
+      },
+      {
+        "id": "7c3b5453-c1c4-49f7-b1de-eec8a8f4af60",
+        "series": 2003,
+        "race_position": 1,
+        "bike": "Honda RC211V",
+        "track": {
+          "order": 16,
+          "name": "C. Valenciana",
+          "symbol": "Val"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#FFF254",
+        "percentage": 25
+      },
+      {
+        "key": "colore_2",
+        "colour": "#2D3768",
+        "percentage": 25
+      },
+      {
+        "key": "colore_3",
+        "colour": "#FEFEFE",
+        "percentage": 35
+      },
+      {
+        "key": "colore_4",
+        "colour": "#E79349",
+        "percentage": 10
+      },
+      {
+        "key": "colore_5",
+        "colour": "#DA4541",
+        "percentage": 5
+      }
+    ]
+  },
+  {
+    "year": 2004,
+    "position": 1,
+    "points": 304,
+    "bike": "Yamaha YZR-M1",
+    "races_number": 16,
+    "podiums": {
+      "gold": 9,
+      "silver": 2,
+      "bronze": 0
+    },
+    "races": [
+      {
+        "id": "ec00592f-9b44-4729-9a6c-22d22ee689c2",
+        "series": 2004,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 1,
+          "name": "Sudafrica",
+          "symbol": "Saf"
+        }
+      },
+      {
+        "id": "eb7d8330-a5de-498f-9bac-622ee75bbc26",
+        "series": 2004,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 2,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "afb66ef1-a9d0-4a66-8e7c-db10a80a7176",
+        "series": 2004,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 3,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "a9207f1a-8c50-4553-821c-b319bd5de7bb",
+        "series": 2004,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 4,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "868894ed-dfd0-4501-81e3-aaa1cd9c0a97",
+        "series": 2004,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 5,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "b9e69a6b-34e0-470b-b21d-ba63d60e378c",
+        "series": 2004,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 6,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "1f1b8321-221e-4081-8a8d-31041cbb1208",
+        "series": 2004,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 7,
+          "name": "Rio de Janeiro",
+          "symbol": "Rio"
+        }
+      },
+      {
+        "id": "f0443e84-9e9b-41be-afb4-5eff228202f1",
+        "series": 2004,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 8,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "8a6de277-7171-4fe8-91e8-28e02607050d",
+        "series": 2004,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 9,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "4f8369a3-90ca-47ab-8b7b-0da8fad83431",
+        "series": 2004,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 10,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "c147700e-d0d1-4120-b5cd-00b8e1d6e438",
+        "series": 2004,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 11,
+          "name": "Portogallo",
+          "symbol": "Por"
+        }
+      },
+      {
+        "id": "5628f2b4-0c63-4fd3-99b0-5c5e1f669b22",
+        "series": 2004,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 12,
+          "name": "Giappone",
+          "symbol": "Gia"
+        }
+      },
+      {
+        "id": "6dcab91b-ce6e-4f24-89cc-1de61cfb6191",
+        "series": 2004,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 13,
+          "name": "Qatar",
+          "symbol": "Qat"
+        }
+      },
+      {
+        "id": "269f7f74-1ad9-46ce-878f-f3b833c56b45",
+        "series": 2004,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 14,
+          "name": "Malesia",
+          "symbol": "Mal"
+        }
+      },
+      {
+        "id": "448dc1cf-10e3-41c6-8235-f67248238a03",
+        "series": 2004,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 15,
+          "name": "Australia",
+          "symbol": "Aus"
+        }
+      },
+      {
+        "id": "94755880-504d-4ceb-a25e-32fb41f826f9",
+        "series": 2004,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 16,
+          "name": "C. Valenciana",
+          "symbol": "Val"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#2A66AB",
+        "percentage": 75
+      },
+      {
+        "key": "colore_2",
+        "colour": "#FFF254",
+        "percentage": 25
+      }
+    ]
+  },
+  {
+    "year": 2005,
+    "position": 1,
+    "points": 367,
+    "bike": "Yamaha YZR-M1",
+    "races_number": 17,
+    "podiums": {
+      "gold": 11,
+      "silver": 3,
+      "bronze": 2
+    },
+    "races": [
+      {
+        "id": "66473a1d-38c3-440b-a8b1-c46ebda55692",
+        "series": 2005,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 1,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "d0119bc5-e5e9-4740-ac2b-c52feeefc429",
+        "series": 2005,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 2,
+          "name": "Portogallo",
+          "symbol": "Por"
+        }
+      },
+      {
+        "id": "6ff9b31f-81f9-444c-aba0-de4e6115c502",
+        "series": 2005,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 3,
+          "name": "Cina",
+          "symbol": "Cin"
+        }
+      },
+      {
+        "id": "95ee73cf-53dd-4454-a4b3-6077b78ae8f9",
+        "series": 2005,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 4,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "c70d0610-6259-4009-8fba-d318ddf72e65",
+        "series": 2005,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 5,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "c09fd29f-3ae1-4456-b254-15759e0b57f6",
+        "series": 2005,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 6,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "821c55b0-1983-4fdf-a217-1906d6a70d2f",
+        "series": 2005,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 7,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "9a69d58d-4554-4f5e-b62e-39cc5bb172d7",
+        "series": 2005,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 8,
+          "name": "Stati Uniti",
+          "symbol": "Usa"
+        }
+      },
+      {
+        "id": "7d31a2d9-f733-4830-9cc3-11c62f65dc2c",
+        "series": 2005,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 9,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "1437c75a-f152-4b78-85ea-db2d14286b17",
+        "series": 2005,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 10,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "d58c8e1f-725a-4c0d-828b-08a3c15cd094",
+        "series": 2005,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 11,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "30fe9242-7992-4a3d-8daf-96a9060616dc",
+        "series": 2005,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 12,
+          "name": "Giappone",
+          "symbol": "Gia"
+        }
+      },
+      {
+        "id": "f0c35db3-5e79-47bd-987f-a137a5dfbdc1",
+        "series": 2005,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 13,
+          "name": "Malesia",
+          "symbol": "Mal"
+        }
+      },
+      {
+        "id": "68a34946-2a06-46ab-8c38-7aeabcdf9b1e",
+        "series": 2005,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 14,
+          "name": "Qatar",
+          "symbol": "Qat"
+        }
+      },
+      {
+        "id": "6093079b-71b5-4560-8a61-562fc443f3e6",
+        "series": 2005,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 15,
+          "name": "Australia",
+          "symbol": "Aus"
+        }
+      },
+      {
+        "id": "d1963159-9a07-4e19-973d-08cb6dfe68b5",
+        "series": 2005,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 16,
+          "name": "Turchia",
+          "symbol": "Tur"
+        }
+      },
+      {
+        "id": "5206cb1b-ac01-4bff-859e-71240e896759",
+        "series": 2005,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 17,
+          "name": "C. Valenciana",
+          "symbol": "Val"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#2A66AB",
+        "percentage": 75
+      },
+      {
+        "key": "colore_2",
+        "colour": "#FFF254",
+        "percentage": 25
+      }
+    ]
+  },
+  {
+    "year": 2006,
+    "position": 2,
+    "points": 247,
+    "bike": "Yamaha YZR-M1",
+    "races_number": 17,
+    "podiums": {
+      "gold": 5,
+      "silver": 4,
+      "bronze": 1
+    },
+    "races": [
+      {
+        "id": "692ff5f2-33f7-4936-b17a-1d89035aebca",
+        "series": 2006,
+        "race_position": 14,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 1,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "f98d99ef-b351-4e08-9bd3-0a097d37d0c1",
+        "series": 2006,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 2,
+          "name": "Qatar",
+          "symbol": "Qat"
+        }
+      },
+      {
+        "id": "fbaf5250-4efe-448f-8300-9876962ad8bc",
+        "series": 2006,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 3,
+          "name": "Turchia",
+          "symbol": "Tur"
+        }
+      },
+      {
+        "id": "1830e000-615a-4b73-8071-bd8f3649e606",
+        "series": 2006,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 4,
+          "name": "Cina",
+          "symbol": "Cin"
+        }
+      },
+      {
+        "id": "c3fca694-9523-49aa-a708-4595a60f3846",
+        "series": 2006,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 5,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "d279b0de-c66f-4fc9-8815-027244317cff",
+        "series": 2006,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 6,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "f3408a3b-ba91-4223-ba16-9361a9687e72",
+        "series": 2006,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 7,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "f4a48490-a167-4924-a2bc-601a3fd43bc9",
+        "series": 2006,
+        "race_position": 8,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 8,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "158d7286-77cf-4add-9f52-3a735f60ff5a",
+        "series": 2006,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 9,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "65732ba4-cfa5-4821-8324-566e1c735f43",
+        "series": 2006,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 10,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "19112316-09b6-4e69-85e9-cf860773b35b",
+        "series": 2006,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 11,
+          "name": "Stati Uniti",
+          "symbol": "Usa"
+        }
+      },
+      {
+        "id": "eaa4b5f0-7599-408f-8beb-4645cc21a4ad",
+        "series": 2006,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 12,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "9405aed7-7889-48e9-81df-71ffe63aba85",
+        "series": 2006,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 13,
+          "name": "Malesia",
+          "symbol": "Mal"
+        }
+      },
+      {
+        "id": "c04705b8-9d2e-47b7-8e06-df06618eefd8",
+        "series": 2006,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 14,
+          "name": "Australia",
+          "symbol": "Aus"
+        }
+      },
+      {
+        "id": "4450040d-efb1-4108-ac21-2ff0cf2c6cdd",
+        "series": 2006,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 15,
+          "name": "Giappone",
+          "symbol": "Gia"
+        }
+      },
+      {
+        "id": "efafa3fc-1e4a-4664-bfc8-c912b3ffe72e",
+        "series": 2006,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 16,
+          "name": "Portogallo",
+          "symbol": "Por"
+        }
+      },
+      {
+        "id": "5d1ad2ea-35f8-4d16-b6d9-e9d8abdfdd02",
+        "series": 2006,
+        "race_position": 13,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 17,
+          "name": "C. Valenciana",
+          "symbol": "Val"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#FAD652",
+        "percentage": 70
+      },
+      {
+        "key": "colore_2",
+        "colour": "#2D3768",
+        "percentage": 16
+      },
+      {
+        "key": "colore_3",
+        "colour": "#FEFEFE",
+        "percentage": 7
+      },
+      {
+        "key": "colore_4",
+        "colour": "#373535",
+        "percentage": 7
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "position": 3,
+    "points": 241,
+    "bike": "Yamaha YZR-M1",
+    "races_number": 18,
+    "podiums": {
+      "gold": 4,
+      "silver": 3,
+      "bronze": 1
+    },
+    "races": [
+      {
+        "id": "d4cef26a-d244-4225-8c5f-d191ae541d9e",
+        "series": 2007,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 1,
+          "name": "Qatar",
+          "symbol": "Qat"
+        }
+      },
+      {
+        "id": "c6fe365f-a556-45bb-953b-29652e9a5c2b",
+        "series": 2007,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 2,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "10ac47b0-bc7f-47fb-902c-438897bb14c3",
+        "series": 2007,
+        "race_position": 10,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 3,
+          "name": "Turchia",
+          "symbol": "Tur"
+        }
+      },
+      {
+        "id": "d2eb2d59-1067-4fa1-ad7b-d710ff70e782",
+        "series": 2007,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 4,
+          "name": "Cina",
+          "symbol": "Cin"
+        }
+      },
+      {
+        "id": "85aad7f4-e922-4e47-8338-ed586e2377dc",
+        "series": 2007,
+        "race_position": 6,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 5,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "439a5ea1-4668-4ae6-85fb-480d138e791b",
+        "series": 2007,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 6,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "ffcec6d8-8e07-4de3-991c-16256c9df961",
+        "series": 2007,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 7,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "2251a7df-f5ae-4328-ba98-ca0d92b08934",
+        "series": 2007,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 8,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "2e6b17df-b634-49f0-8705-ff67efe646c9",
+        "series": 2007,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 9,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "d6deaa6d-8c50-4487-84ae-2f61fdb7f0c2",
+        "series": 2007,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 10,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "6417f903-550c-4932-b3fb-166b67b3e63b",
+        "series": 2007,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 11,
+          "name": "Stati Uniti",
+          "symbol": "Usa"
+        }
+      },
+      {
+        "id": "20151802-b701-43b4-bc70-ea119545736a",
+        "series": 2007,
+        "race_position": 7,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 12,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "14b8287b-24fe-452d-92ed-eca1d88b357f",
+        "series": 2007,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 13,
+          "name": "San Marino",
+          "symbol": "S.Mar"
+        }
+      },
+      {
+        "id": "8551c2d6-82e2-4205-85c0-83a07873b68c",
+        "series": 2007,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 14,
+          "name": "Portogallo",
+          "symbol": "Por"
+        }
+      },
+      {
+        "id": "47aa30e6-0acd-4cd2-9754-b49b82127f5a",
+        "series": 2007,
+        "race_position": 13,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 15,
+          "name": "Giappone",
+          "symbol": "Gia"
+        }
+      },
+      {
+        "id": "34c4c102-1267-48df-a689-28dcf1386373",
+        "series": 2007,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 16,
+          "name": "Australia",
+          "symbol": "Aus"
+        }
+      },
+      {
+        "id": "c9244ae6-153e-4187-97b6-f9053560aeb1",
+        "series": 2007,
+        "race_position": 5,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 17,
+          "name": "Malesia",
+          "symbol": "Mal"
+        }
+      },
+      {
+        "id": "9aafb879-f84a-403a-a76f-7fcefc6546e9",
+        "series": 2007,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 18,
+          "name": "C. Valenciana",
+          "symbol": "Val"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#2D3768",
+        "percentage": 40
+      },
+      {
+        "key": "colore_2",
+        "colour": "#FEFEFE",
+        "percentage": 40
+      },
+      {
+        "key": "colore_3",
+        "colour": "#FFF254",
+        "percentage": 20
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "position": 1,
+    "points": 373,
+    "bike": "Yamaha YZR-M1",
+    "races_number": 18,
+    "podiums": {
+      "gold": 9,
+      "silver": 5,
+      "bronze": 2
+    },
+    "races": [
+      {
+        "id": "05c216da-dfff-4b4c-acab-1b54488a44f4",
+        "series": 2008,
+        "race_position": 5,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 1,
+          "name": "Qatar",
+          "symbol": "Qat"
+        }
+      },
+      {
+        "id": "6aaf242f-a587-4466-847a-d68377a395cc",
+        "series": 2008,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 2,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "78c1d6e6-a101-423f-bda1-957b78922230",
+        "series": 2008,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 3,
+          "name": "Portogallo",
+          "symbol": "Por"
+        }
+      },
+      {
+        "id": "bb0c035d-b99d-4f7c-a4f1-9ff25b1aca1f",
+        "series": 2008,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 4,
+          "name": "Cina",
+          "symbol": "Cin"
+        }
+      },
+      {
+        "id": "e6ca7855-f56a-445c-a394-7384a5895720",
+        "series": 2008,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 5,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "15948f30-00ca-4f8b-91b6-65991480afee",
+        "series": 2008,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 6,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "ef02baf5-48e9-4d78-948d-5a970fc2cdf7",
+        "series": 2008,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 7,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "55f87191-2bbd-4840-b6be-31a330a95480",
+        "series": 2008,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 8,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "b8752e27-2aec-45fa-ab81-1b9e454199a8",
+        "series": 2008,
+        "race_position": 11,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 9,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "0c892555-8382-41bf-bd44-140436f00975",
+        "series": 2008,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 10,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "60e025d0-4c96-4832-a454-5280285cb0f7",
+        "series": 2008,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 11,
+          "name": "Stati Uniti",
+          "symbol": "Usa"
+        }
+      },
+      {
+        "id": "22620766-8730-4b96-84d8-82514640a966",
+        "series": 2008,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 12,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "0dbe71c6-2709-4851-9515-d9f945720258",
+        "series": 2008,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 13,
+          "name": "San Marino",
+          "symbol": "S.Mar"
+        }
+      },
+      {
+        "id": "c7bcbd6e-4ea1-45b5-b857-e889ff5cdfac",
+        "series": 2008,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 14,
+          "name": "Indianapolis",
+          "symbol": "Inp"
+        }
+      },
+      {
+        "id": "46b6bb27-08af-4813-82d6-6adc089bb74d",
+        "series": 2008,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 15,
+          "name": "Giappone",
+          "symbol": "Gia"
+        }
+      },
+      {
+        "id": "ea1eae2c-d124-4001-b524-5bb14af14349",
+        "series": 2008,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 16,
+          "name": "Australia",
+          "symbol": "Aus"
+        }
+      },
+      {
+        "id": "6532e8ed-888e-4ab9-8fe8-2d778bdec9b9",
+        "series": 2008,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 17,
+          "name": "Malesia",
+          "symbol": "Mal"
+        }
+      },
+      {
+        "id": "00029a64-d091-47a1-bff7-4dc38790afc8",
+        "series": 2008,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 18,
+          "name": "C. Valenciana",
+          "symbol": "Val"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#2D3768",
+        "percentage": 40
+      },
+      {
+        "key": "colore_2",
+        "colour": "#FEFEFE",
+        "percentage": 40
+      },
+      {
+        "key": "colore_3",
+        "colour": "#FFF254",
+        "percentage": 20
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "position": 1,
+    "points": 306,
+    "bike": "Yamaha YZR-M1",
+    "races_number": 17,
+    "podiums": {
+      "gold": 6,
+      "silver": 5,
+      "bronze": 2
+    },
+    "races": [
+      {
+        "id": "e7d5cb57-c4f9-41e0-8b60-5fa6b0d1ff13",
+        "series": 2009,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 1,
+          "name": "Qatar",
+          "symbol": "Qat"
+        }
+      },
+      {
+        "id": "a19d2649-742a-4ce9-b232-02bb90cdd61b",
+        "series": 2009,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 2,
+          "name": "Giappone",
+          "symbol": "Gia"
+        }
+      },
+      {
+        "id": "1120e506-01bb-4107-8d47-c5ba5f6a5c3d",
+        "series": 2009,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 3,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "1b0201be-edfe-48f2-93aa-d17957ed67f7",
+        "series": 2009,
+        "race_position": 16,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 4,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "e559d744-f71c-412d-8726-6afbf7452c1b",
+        "series": 2009,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 5,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "59915e84-80b7-4c78-adc8-7ade77ac18d0",
+        "series": 2009,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 6,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "7ff5e3dd-ba16-48c7-a391-efa0c91bf3fb",
+        "series": 2009,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 7,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "fa6f4a86-d2bd-4870-9712-895288499a08",
+        "series": 2009,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 8,
+          "name": "Stati Uniti",
+          "symbol": "Usa"
+        }
+      },
+      {
+        "id": "f936af55-f001-40a4-8fee-b94d626918d3",
+        "series": 2009,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 9,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "51c9c370-fed2-4fac-9e8b-d82ef65ea8d7",
+        "series": 2009,
+        "race_position": 5,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 10,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "fa036f38-b919-4cf3-90d7-e143a79ff917",
+        "series": 2009,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 11,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "21be37f1-079e-4a42-b558-257548156506",
+        "series": 2009,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 12,
+          "name": "Indianapolis",
+          "symbol": "Inp"
+        }
+      },
+      {
+        "id": "d27a64d0-455c-4995-8716-82a6d7b94880",
+        "series": 2009,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 13,
+          "name": "San Marino",
+          "symbol": "S.Mar"
+        }
+      },
+      {
+        "id": "656ee43a-3c57-410a-88cc-270a3812b97b",
+        "series": 2009,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 14,
+          "name": "Portogallo",
+          "symbol": "Por"
+        }
+      },
+      {
+        "id": "71f8d302-e1e6-4b7d-a9bb-d583720174ea",
+        "series": 2009,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 15,
+          "name": "Australia",
+          "symbol": "Aus"
+        }
+      },
+      {
+        "id": "0620df66-9835-448c-884d-92bc11815fd9",
+        "series": 2009,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 16,
+          "name": "Malesia",
+          "symbol": "Mal"
+        }
+      },
+      {
+        "id": "31f35b00-a3fa-479a-a117-df3610635fc9",
+        "series": 2009,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 17,
+          "name": "C. Valenciana",
+          "symbol": "Val"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#2D3768",
+        "percentage": 40
+      },
+      {
+        "key": "colore_2",
+        "colour": "#FEFEFE",
+        "percentage": 40
+      },
+      {
+        "key": "colore_3",
+        "colour": "#FFF254",
+        "percentage": 10
+      },
+      {
+        "key": "colore_4",
+        "colour": "#373535",
+        "percentage": 10
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "position": 3,
+    "points": 233,
+    "bike": "Yamaha YZR-M1",
+    "races_number": 18,
+    "podiums": {
+      "gold": 2,
+      "silver": 2,
+      "bronze": 6
+    },
+    "races": [
+      {
+        "id": "8e5b8d4f-a400-4c62-a1b7-c06aafaae494",
+        "series": 2010,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 1,
+          "name": "Qatar",
+          "symbol": "Qat"
+        }
+      },
+      {
+        "id": "345c3f71-670e-406e-a13e-009d48df4921",
+        "series": 2010,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 2,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "be8e091e-eacc-44d0-b8f7-1e874d9513d5",
+        "series": 2010,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 3,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "2bb398cd-74b0-4992-adaa-63d64e3fbc16",
+        "series": 2010,
+        "race_position": "np",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 4,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "611cdec0-2e03-4503-b687-7e6e0bc7c0e3",
+        "series": 2010,
+        "race_position": "np",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 5,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "9d6f81b9-d20e-427b-ba3f-374316f4d344",
+        "series": 2010,
+        "race_position": "np",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 6,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "7e8cfd5a-250c-4931-9746-78a42235a0ca",
+        "series": 2010,
+        "race_position": "np",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 7,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "c7bc1c6e-f5b9-437e-8c27-cf45af284280",
+        "series": 2010,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 8,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "5de81973-968c-47f5-8a52-eba2bb9b7d4d",
+        "series": 2010,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 9,
+          "name": "Stati Uniti",
+          "symbol": "Usa"
+        }
+      },
+      {
+        "id": "b9450dc2-4b7b-41e9-b723-18a45ffdb2c8",
+        "series": 2010,
+        "race_position": 5,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 10,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "f052c1db-dffe-48cf-a7cd-669126812042",
+        "series": 2010,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 11,
+          "name": "Indianapolis",
+          "symbol": "Inp"
+        }
+      },
+      {
+        "id": "75642303-02a5-4967-9fc0-ddaa8ee77f5c",
+        "series": 2010,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 12,
+          "name": "San Marino",
+          "symbol": "S.Mar"
+        }
+      },
+      {
+        "id": "c0b072d5-e70e-4f39-8003-fd28f48589e6",
+        "series": 2010,
+        "race_position": 6,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 13,
+          "name": "Aragona",
+          "symbol": "Ara"
+        }
+      },
+      {
+        "id": "08017f03-0cf9-4d26-86bc-0c9cf8831405",
+        "series": 2010,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 14,
+          "name": "Giappone",
+          "symbol": "Gia"
+        }
+      },
+      {
+        "id": "a5e4e52c-60c9-4426-8f0c-d3c86854aa2a",
+        "series": 2010,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 15,
+          "name": "Malesia",
+          "symbol": "Mal"
+        }
+      },
+      {
+        "id": "7051225a-677f-49cb-8657-decaa1f2f5d5",
+        "series": 2010,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 16,
+          "name": "Australia",
+          "symbol": "Aus"
+        }
+      },
+      {
+        "id": "c7a3ad51-bbcc-42db-a6e2-d5447ee5ffae",
+        "series": 2010,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 17,
+          "name": "Portogallo",
+          "symbol": "Por"
+        }
+      },
+      {
+        "id": "0e210112-c232-4f81-b602-acd8d6e72626",
+        "series": 2010,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 18,
+          "name": "C. Valenciana",
+          "symbol": "Val"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#2D3768",
+        "percentage": 40
+      },
+      {
+        "key": "colore_2",
+        "colour": "#FEFEFE",
+        "percentage": 40
+      },
+      {
+        "key": "colore_3",
+        "colour": "#FFF254",
+        "percentage": 10
+      },
+      {
+        "key": "colore_4",
+        "colour": "#373535",
+        "percentage": 10
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "position": 7,
+    "points": 139,
+    "bike": "Ducati Desmosedici GP11",
+    "races_number": 18,
+    "podiums": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "races": [
+      {
+        "id": "14120f22-b451-42b3-b9e8-cc75acdf7803",
+        "series": 2011,
+        "race_position": 7,
+        "bike": "Ducati Desmosedici GP11",
+        "track": {
+          "order": 1,
+          "name": "Qatar",
+          "symbol": "Qat"
+        }
+      },
+      {
+        "id": "61a02966-d879-41b2-ab05-f70001eb7623",
+        "series": 2011,
+        "race_position": 5,
+        "bike": "Ducati Desmosedici GP11",
+        "track": {
+          "order": 2,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "b522b687-48e6-422c-a567-009872d21274",
+        "series": 2011,
+        "race_position": 5,
+        "bike": "Ducati Desmosedici GP11",
+        "track": {
+          "order": 3,
+          "name": "Portogallo",
+          "symbol": "Por"
+        }
+      },
+      {
+        "id": "9fa4bba4-2d12-4046-8b6a-822d40555b6c",
+        "series": 2011,
+        "race_position": 3,
+        "bike": "Ducati Desmosedici GP11",
+        "track": {
+          "order": 4,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "4740f9b0-7edc-48b5-95bc-8ffab540195d",
+        "series": 2011,
+        "race_position": 5,
+        "bike": "Ducati Desmosedici GP11",
+        "track": {
+          "order": 5,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "58c24ec3-a07e-4648-a91d-71a44ca0e619",
+        "series": 2011,
+        "race_position": 6,
+        "bike": "Ducati Desmosedici GP11",
+        "track": {
+          "order": 6,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "7233f45e-bb14-4060-ad73-f92b0e2cd9cc",
+        "series": 2011,
+        "race_position": 4,
+        "bike": "Ducati Desmosedici GP11",
+        "track": {
+          "order": 7,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "801f9d34-0ba7-46db-9623-51d6e6b108e6",
+        "series": 2011,
+        "race_position": 6,
+        "bike": "Ducati Desmosedici GP11",
+        "track": {
+          "order": 8,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "2c0a7ff0-4a7a-46b8-b7cc-31832500754b",
+        "series": 2011,
+        "race_position": 9,
+        "bike": "Ducati Desmosedici GP11",
+        "track": {
+          "order": 9,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "b928ed86-67d4-4c34-b8db-f464faa1f053",
+        "series": 2011,
+        "race_position": 6,
+        "bike": "Ducati Desmosedici GP11",
+        "track": {
+          "order": 10,
+          "name": "Stati Uniti",
+          "symbol": "Usa"
+        }
+      },
+      {
+        "id": "966cf07d-be97-42f4-92dc-9e8915ea5fd5",
+        "series": 2011,
+        "race_position": 6,
+        "bike": "Ducati Desmosedici GP11",
+        "track": {
+          "order": 11,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "be82eda3-ceb9-4af0-9eca-3591d9b10597",
+        "series": 2011,
+        "race_position": 10,
+        "bike": "Ducati Desmosedici GP11",
+        "track": {
+          "order": 12,
+          "name": "Indianapolis",
+          "symbol": "Inp"
+        }
+      },
+      {
+        "id": "20027f66-e4ba-42f5-a282-9e263adea813",
+        "series": 2011,
+        "race_position": 7,
+        "bike": "Ducati Desmosedici GP11",
+        "track": {
+          "order": 13,
+          "name": "San Marino",
+          "symbol": "S.Mar"
+        }
+      },
+      {
+        "id": "c87afe81-553a-44fa-881a-3c54e0d639af",
+        "series": 2011,
+        "race_position": 10,
+        "bike": "Ducati Desmosedici GP11",
+        "track": {
+          "order": 14,
+          "name": "Aragona",
+          "symbol": "Ara"
+        }
+      },
+      {
+        "id": "c16f4885-8de4-4d2c-8ee0-9b09f27df44c",
+        "series": 2011,
+        "race_position": "rit",
+        "bike": "Ducati Desmosedici GP11",
+        "track": {
+          "order": 15,
+          "name": "Giappone",
+          "symbol": "Gia"
+        }
+      },
+      {
+        "id": "930c46c9-6800-4dec-9add-33085b5e7648",
+        "series": 2011,
+        "race_position": "rit",
+        "bike": "Ducati Desmosedici GP11",
+        "track": {
+          "order": 16,
+          "name": "Australia",
+          "symbol": "Aus"
+        }
+      },
+      {
+        "id": "dab0d990-de12-4f62-b572-2e018709957b",
+        "series": 2011,
+        "race_position": "ga",
+        "bike": "Ducati Desmosedici GP11",
+        "track": {
+          "order": 17,
+          "name": "Malesia",
+          "symbol": "Mal"
+        }
+      },
+      {
+        "id": "19526d7c-c18c-4857-9a2b-a2300c88fdac",
+        "series": 2011,
+        "race_position": "rit",
+        "bike": "Ducati Desmosedici GP11",
+        "track": {
+          "order": 18,
+          "name": "C. Valenciana",
+          "symbol": "Val"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#DA4541",
+        "percentage": 40
+      },
+      {
+        "key": "colore_2",
+        "colour": "#FEFEFE",
+        "percentage": 20
+      },
+      {
+        "key": "colore_3",
+        "colour": "#FFF254",
+        "percentage": 20
+      },
+      {
+        "key": "colore_4",
+        "colour": "#373535",
+        "percentage": 20
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "position": 6,
+    "points": 163,
+    "bike": "Ducati Desmosedici GP12",
+    "races_number": 18,
+    "podiums": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 0
+    },
+    "races": [
+      {
+        "id": "a59b3cb9-897e-4827-bee1-d7187ea2be06",
+        "series": 2012,
+        "race_position": 10,
+        "bike": "Ducati Desmosedici GP12",
+        "track": {
+          "order": 1,
+          "name": "Qatar",
+          "symbol": "Qat"
+        }
+      },
+      {
+        "id": "4bd743e2-6f28-49ca-aab1-27b5661e75cf",
+        "series": 2012,
+        "race_position": 9,
+        "bike": "Ducati Desmosedici GP12",
+        "track": {
+          "order": 2,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "f282808a-aa4d-4416-8376-711666c96142",
+        "series": 2012,
+        "race_position": 7,
+        "bike": "Ducati Desmosedici GP12",
+        "track": {
+          "order": 3,
+          "name": "Portogallo",
+          "symbol": "Por"
+        }
+      },
+      {
+        "id": "60ebf48e-1b5b-48c5-98d2-7a0d222d5095",
+        "series": 2012,
+        "race_position": 2,
+        "bike": "Ducati Desmosedici GP12",
+        "track": {
+          "order": 4,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "8c027065-b942-481a-a36d-949a7aa52b0a",
+        "series": 2012,
+        "race_position": 7,
+        "bike": "Ducati Desmosedici GP12",
+        "track": {
+          "order": 5,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "6bf65143-6b6e-4c5b-b4e9-0cf4585d5022",
+        "series": 2012,
+        "race_position": 9,
+        "bike": "Ducati Desmosedici GP12",
+        "track": {
+          "order": 6,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "cb9c51b0-472c-47d7-90fb-7d416e798e66",
+        "series": 2012,
+        "race_position": 13,
+        "bike": "Ducati Desmosedici GP12",
+        "track": {
+          "order": 7,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "255f8dd3-9bce-4f0f-b25d-294d1494c6fb",
+        "series": 2012,
+        "race_position": 6,
+        "bike": "Ducati Desmosedici GP12",
+        "track": {
+          "order": 8,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "d9756fbf-06c1-4fc7-9422-b4a4f6431eb6",
+        "series": 2012,
+        "race_position": 5,
+        "bike": "Ducati Desmosedici GP12",
+        "track": {
+          "order": 9,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "afeb78b2-bcd5-4b99-957e-275d16ec985a",
+        "series": 2012,
+        "race_position": "rit",
+        "bike": "Ducati Desmosedici GP12",
+        "track": {
+          "order": 10,
+          "name": "Stati Uniti",
+          "symbol": "Usa"
+        }
+      },
+      {
+        "id": "1302e447-9f03-42c0-9322-5bf05db29768",
+        "series": 2012,
+        "race_position": 7,
+        "bike": "Ducati Desmosedici GP12",
+        "track": {
+          "order": 11,
+          "name": "Indianapolis",
+          "symbol": "Inp"
+        }
+      },
+      {
+        "id": "84bc8abe-68c7-45b6-86e8-ae4cb385b338",
+        "series": 2012,
+        "race_position": 7,
+        "bike": "Ducati Desmosedici GP12",
+        "track": {
+          "order": 12,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "7a4dbe5b-e760-4e6e-8909-3b5b0175bfea",
+        "series": 2012,
+        "race_position": 2,
+        "bike": "Ducati Desmosedici GP12",
+        "track": {
+          "order": 13,
+          "name": "San Marino",
+          "symbol": "S.Mar"
+        }
+      },
+      {
+        "id": "34c29a86-d054-43f9-842a-ca614686fc89",
+        "series": 2012,
+        "race_position": 8,
+        "bike": "Ducati Desmosedici GP12",
+        "track": {
+          "order": 14,
+          "name": "Aragona",
+          "symbol": "Ara"
+        }
+      },
+      {
+        "id": "c003c14d-6c5c-4463-b941-a2736f5578fe",
+        "series": 2012,
+        "race_position": 7,
+        "bike": "Ducati Desmosedici GP12",
+        "track": {
+          "order": 15,
+          "name": "Giappone",
+          "symbol": "Gia"
+        }
+      },
+      {
+        "id": "2bc57e59-3035-4b8a-b065-eea8e66d179d",
+        "series": 2012,
+        "race_position": 5,
+        "bike": "Ducati Desmosedici GP12",
+        "track": {
+          "order": 16,
+          "name": "Malesia",
+          "symbol": "Mal"
+        }
+      },
+      {
+        "id": "6bc8569b-0678-4288-a044-855b2c08a23a",
+        "series": 2012,
+        "race_position": 7,
+        "bike": "Ducati Desmosedici GP12",
+        "track": {
+          "order": 17,
+          "name": "Australia",
+          "symbol": "Aus"
+        }
+      },
+      {
+        "id": "686b7254-0195-4b79-a263-afea56270edf",
+        "series": 2012,
+        "race_position": 10,
+        "bike": "Ducati Desmosedici GP12",
+        "track": {
+          "order": 18,
+          "name": "C. Valenciana",
+          "symbol": "Val"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#DA4541",
+        "percentage": 45
+      },
+      {
+        "key": "colore_2",
+        "colour": "#FEFEFE",
+        "percentage": 29
+      },
+      {
+        "key": "colore_3",
+        "colour": "#FFF254",
+        "percentage": 13
+      },
+      {
+        "key": "colore_4",
+        "colour": "#373535",
+        "percentage": 13
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "position": 4,
+    "points": 237,
+    "bike": "Yamaha YZR-M1",
+    "races_number": 18,
+    "podiums": {
+      "gold": 1,
+      "silver": 1,
+      "bronze": 4
+    },
+    "races": [
+      {
+        "id": "e1d7fbd2-0932-4bf3-acc1-94cf446b4934",
+        "series": 2013,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 1,
+          "name": "Qatar",
+          "symbol": "Qat"
+        }
+      },
+      {
+        "id": "8a1f917a-ef4b-4ef5-9232-90f19f6a5907",
+        "series": 2013,
+        "race_position": 6,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 2,
+          "name": "Delle Americhe",
+          "symbol": "Ame"
+        }
+      },
+      {
+        "id": "007d8720-5521-48a3-9af5-fac3b7134347",
+        "series": 2013,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 3,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "3e51c15c-0917-4e1e-a407-96bc226b108e",
+        "series": 2013,
+        "race_position": 12,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 4,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "f4d81d7e-1095-44b0-bcf2-eafd46b5a727",
+        "series": 2013,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 5,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "d6ee8170-9a77-4095-bef3-64c4f81f6f79",
+        "series": 2013,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 6,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "54f19182-3a07-47b4-a167-3800dc617ef0",
+        "series": 2013,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 7,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "98880839-6343-4e89-ac88-8a876543899b",
+        "series": 2013,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 8,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "e5ce5938-1077-4ccf-ba64-94a283a05975",
+        "series": 2013,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 9,
+          "name": "Stati Uniti",
+          "symbol": "Usa"
+        }
+      },
+      {
+        "id": "4e971ac1-e2ca-4f21-8cf9-84d88d8190bc",
+        "series": 2013,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 10,
+          "name": "Indianapolis",
+          "symbol": "Inp"
+        }
+      },
+      {
+        "id": "5c415919-de69-4889-85aa-b3f7fcf2f111",
+        "series": 2013,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 11,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "f03810b3-e95f-4e47-862d-32dc37775d50",
+        "series": 2013,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 12,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "fc3e29ec-6197-4653-8445-763e0f7bb5f0",
+        "series": 2013,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 13,
+          "name": "San Marino",
+          "symbol": "S.Mar"
+        }
+      },
+      {
+        "id": "9ef057e1-1875-42e0-98cd-d7c0affedb34",
+        "series": 2013,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 14,
+          "name": "Aragona",
+          "symbol": "Ara"
+        }
+      },
+      {
+        "id": "1d18dffd-a60f-43e3-aaf2-951c4165ecd1",
+        "series": 2013,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 15,
+          "name": "Malesia",
+          "symbol": "Mal"
+        }
+      },
+      {
+        "id": "797fd97e-f785-4fea-9a33-625c8ed0605b",
+        "series": 2013,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 16,
+          "name": "Australia",
+          "symbol": "Aus"
+        }
+      },
+      {
+        "id": "9fe35e36-671b-4ccd-a4a7-6966ac1203d0",
+        "series": 2013,
+        "race_position": 6,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 17,
+          "name": "Giappone",
+          "symbol": "Gia"
+        }
+      },
+      {
+        "id": "48243aa7-e8ad-4726-9fdd-ce166313a611",
+        "series": 2013,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 18,
+          "name": "C. Valenciana",
+          "symbol": "Val"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#2A66AB",
+        "percentage": 45
+      },
+      {
+        "key": "colore_2",
+        "colour": "#FEFEFE",
+        "percentage": 30
+      },
+      {
+        "key": "colore_3",
+        "colour": "#FFF254",
+        "percentage": 15
+      },
+      {
+        "key": "colore_4",
+        "colour": "#373535",
+        "percentage": 10
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "position": 2,
+    "points": 295,
+    "bike": "Yamaha YZR-M1",
+    "races_number": 18,
+    "podiums": {
+      "gold": 2,
+      "silver": 6,
+      "bronze": 5
+    },
+    "races": [
+      {
+        "id": "f7e84a15-5456-4d42-ade3-c6c18fb25223",
+        "series": 2014,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 1,
+          "name": "Qatar",
+          "symbol": "Qat"
+        }
+      },
+      {
+        "id": "644820c7-3ba0-4861-878d-b45d5d144490",
+        "series": 2014,
+        "race_position": 8,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 2,
+          "name": "Delle Americhe",
+          "symbol": "Ame"
+        }
+      },
+      {
+        "id": "57a3e5fe-c082-4acb-8caa-cd40216aaf1c",
+        "series": 2014,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 3,
+          "name": "Argentina",
+          "symbol": "Arg"
+        }
+      },
+      {
+        "id": "468374e8-8d3c-41ac-bfa4-8fc728690bdf",
+        "series": 2014,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 4,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "f134751e-edb9-47af-9662-ae5513e1ec83",
+        "series": 2014,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 5,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "178c05f8-ce6d-4ddb-b247-1a076094e7c9",
+        "series": 2014,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 6,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "64dd953e-51e6-43ea-a1e4-c9d9384854e4",
+        "series": 2014,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 7,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "ffbcfdb5-c0b5-4ee2-a0ed-47350f550478",
+        "series": 2014,
+        "race_position": 5,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 8,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "cd7b3124-870e-4585-84f6-b89042f6df2a",
+        "series": 2014,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 9,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "2c376739-3d9b-4dfd-a802-6c2367d7b90a",
+        "series": 2014,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 10,
+          "name": "Indianapolis",
+          "symbol": "Inp"
+        }
+      },
+      {
+        "id": "acbf0240-c2bc-4c53-87b8-873bbec7c36a",
+        "series": 2014,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 11,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "622b3fa0-8ae2-4e99-bb25-451870ec0a3a",
+        "series": 2014,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 12,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "15d46742-c30f-456f-a174-aa4961efc32e",
+        "series": 2014,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 13,
+          "name": "San Marino",
+          "symbol": "S.Mar"
+        }
+      },
+      {
+        "id": "a397d49f-4ff6-4f52-892c-f2c73534ac3d",
+        "series": 2014,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 14,
+          "name": "Aragona",
+          "symbol": "Ara"
+        }
+      },
+      {
+        "id": "471ab5f9-0cff-4df8-b859-9d16204b80ad",
+        "series": 2014,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 15,
+          "name": "Giappone",
+          "symbol": "Gia"
+        }
+      },
+      {
+        "id": "c66b486f-59c8-4046-b4be-ab83463c208b",
+        "series": 2014,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 16,
+          "name": "Australia",
+          "symbol": "Aus"
+        }
+      },
+      {
+        "id": "88774a91-56b1-4bc6-b7bd-2bacefbe1e18",
+        "series": 2014,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 17,
+          "name": "Malesia",
+          "symbol": "Mal"
+        }
+      },
+      {
+        "id": "bcf07ec8-6ff0-4684-9cca-1242df8ddb48",
+        "series": 2014,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 18,
+          "name": "C. Valenciana",
+          "symbol": "Val"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#2D3768",
+        "percentage": 57
+      },
+      {
+        "key": "colore_2",
+        "colour": "#FEFEFE",
+        "percentage": 18
+      },
+      {
+        "key": "colore_3",
+        "colour": "#FFF254",
+        "percentage": 17
+      },
+      {
+        "key": "colore_4",
+        "colour": "#373535",
+        "percentage": 8
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "position": 2,
+    "points": 325,
+    "bike": "Yamaha YZR-M1",
+    "races_number": 18,
+    "podiums": {
+      "gold": 4,
+      "silver": 3,
+      "bronze": 8
+    },
+    "races": [
+      {
+        "id": "5d8d03c3-aa4b-47b4-9b01-b10619122e2c",
+        "series": 2015,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 1,
+          "name": "Qatar",
+          "symbol": "Qat"
+        }
+      },
+      {
+        "id": "382985b5-ce37-4b67-bf86-fe2562f87b1f",
+        "series": 2015,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 2,
+          "name": "Delle Americhe",
+          "symbol": "Ame"
+        }
+      },
+      {
+        "id": "bc866884-54cc-4d1f-8b3c-28b05ef0a78f",
+        "series": 2015,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 3,
+          "name": "Argentina",
+          "symbol": "Arg"
+        }
+      },
+      {
+        "id": "6bf4a814-3396-4242-840b-2ae7f416f79d",
+        "series": 2015,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 4,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "6114ce77-ba50-416f-b03d-1e1e1bc1b1b4",
+        "series": 2015,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 5,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "c3579457-1f3d-4a99-9e31-d939dd48f1f3",
+        "series": 2015,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 6,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "fd7fd5f5-4bf6-427d-8cd8-4aaba4b22d77",
+        "series": 2015,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 7,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "5c3355de-991d-483e-b25b-153b49ae9108",
+        "series": 2015,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 8,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "5b11c1bf-ee5f-4de7-b86e-6f1183a8419c",
+        "series": 2015,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 9,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "ff892aa1-942a-4a82-a896-1d40f51d6df7",
+        "series": 2015,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 10,
+          "name": "Indianapolis",
+          "symbol": "Inp"
+        }
+      },
+      {
+        "id": "d82f5826-9808-4b72-9986-e88092878b3f",
+        "series": 2015,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 11,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "d0939821-a7a7-48da-8ed4-93e9c2e79d1e",
+        "series": 2015,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 12,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "8e2ce847-b9eb-4631-916a-d330bd294331",
+        "series": 2015,
+        "race_position": 5,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 13,
+          "name": "San Marino",
+          "symbol": "S.Mar"
+        }
+      },
+      {
+        "id": "c765f9ad-f24d-4bae-85e8-be2a2f7397fd",
+        "series": 2015,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 14,
+          "name": "Aragona",
+          "symbol": "Ara"
+        }
+      },
+      {
+        "id": "0ce69e3f-b0d3-497d-9649-fac70f3eb42d",
+        "series": 2015,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 15,
+          "name": "Giappone",
+          "symbol": "Gia"
+        }
+      },
+      {
+        "id": "f61ca8ab-afcb-43ab-8c69-13090af40a74",
+        "series": 2015,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 16,
+          "name": "Australia",
+          "symbol": "Aus"
+        }
+      },
+      {
+        "id": "9e38e467-14c3-4859-be4f-cf2291ce4425",
+        "series": 2015,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 17,
+          "name": "Malesia",
+          "symbol": "Mal"
+        }
+      },
+      {
+        "id": "8a207231-1e42-4f84-86b7-8b717b8d4a35",
+        "series": 2015,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 18,
+          "name": "C. Valenciana",
+          "symbol": "Val"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#2D3768",
+        "percentage": 45
+      },
+      {
+        "key": "colore_2",
+        "colour": "#FEFEFE",
+        "percentage": 30
+      },
+      {
+        "key": "colore_3",
+        "colour": "#FFF254",
+        "percentage": 17
+      },
+      {
+        "key": "colore_4",
+        "colour": "#373535",
+        "percentage": 8
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "position": 2,
+    "points": 249,
+    "bike": "Yamaha YZR-M1",
+    "races_number": 18,
+    "podiums": {
+      "gold": 2,
+      "silver": 6,
+      "bronze": 2
+    },
+    "races": [
+      {
+        "id": "2712e1ab-869a-4484-b030-a06ede071401",
+        "series": 2016,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 1,
+          "name": "Qatar",
+          "symbol": "Qat"
+        }
+      },
+      {
+        "id": "ea599522-8a93-41f8-a37a-6ce2634e70b8",
+        "series": 2016,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 2,
+          "name": "Argentina",
+          "symbol": "Arg"
+        }
+      },
+      {
+        "id": "8a58e78c-f1bb-444a-874e-1964f0dfc04e",
+        "series": 2016,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 3,
+          "name": "Delle Americhe",
+          "symbol": "Ame"
+        }
+      },
+      {
+        "id": "6d1f5283-96d1-4591-8d81-48013303eaf8",
+        "series": 2016,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 4,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "6e6b48cf-9a11-460d-9b91-0f006263cca4",
+        "series": 2016,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 5,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "6a7c72fe-e465-4182-9887-ccacf7db6705",
+        "series": 2016,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 6,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "bfe46d39-849e-4962-8e42-83698da8ce2a",
+        "series": 2016,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 7,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "539a4bc6-2406-406b-a4c4-d8d0c5b5f0c2",
+        "series": 2016,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 8,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "acda94e0-67d9-4f2b-bccc-d70237a2162a",
+        "series": 2016,
+        "race_position": 8,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 9,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "f60df54a-35c3-4bfe-99a2-364192371558",
+        "series": 2016,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 10,
+          "name": "Austria",
+          "symbol": "Aut"
+        }
+      },
+      {
+        "id": "9c39b0a2-ffad-4db6-8fb7-2f2e401563af",
+        "series": 2016,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 11,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "36b1ffbe-000a-48ff-a1cc-acf76a83559e",
+        "series": 2016,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 12,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "67cedcb7-dd8b-4048-9c10-87d1bb60519e",
+        "series": 2016,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 13,
+          "name": "San Marino",
+          "symbol": "S.Mar"
+        }
+      },
+      {
+        "id": "a25f0a32-8de2-4e67-922b-b613973af2c2",
+        "series": 2016,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 14,
+          "name": "Aragona",
+          "symbol": "Ara"
+        }
+      },
+      {
+        "id": "5d1530f9-5319-448a-a6b6-42760c048559",
+        "series": 2016,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 15,
+          "name": "Giappone",
+          "symbol": "Gia"
+        }
+      },
+      {
+        "id": "d04cd425-7671-416a-9976-cccb5f0afcb5",
+        "series": 2016,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 16,
+          "name": "Australia",
+          "symbol": "Aus"
+        }
+      },
+      {
+        "id": "6c8dce9a-2eb8-413e-9831-d6c550e8f4f2",
+        "series": 2016,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 17,
+          "name": "Malesia",
+          "symbol": "Mal"
+        }
+      },
+      {
+        "id": "461b9476-1108-443b-8364-1dcda2ea7de4",
+        "series": 2016,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 18,
+          "name": "C. Valenciana",
+          "symbol": "Val"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#2D3768",
+        "percentage": 52
+      },
+      {
+        "key": "colore_2",
+        "colour": "#FEFEFE",
+        "percentage": 8
+      },
+      {
+        "key": "colore_3",
+        "colour": "#FFF254",
+        "percentage": 31
+      },
+      {
+        "key": "colore_4",
+        "colour": "#373535",
+        "percentage": 9
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "position": 5,
+    "points": 208,
+    "bike": "Yamaha YZR-M1",
+    "races_number": 18,
+    "podiums": {
+      "gold": 1,
+      "silver": 3,
+      "bronze": 2
+    },
+    "races": [
+      {
+        "id": "08bfc6e2-b311-4d8e-a80b-7ff09c833711",
+        "series": 2017,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 1,
+          "name": "Qatar",
+          "symbol": "Qat"
+        }
+      },
+      {
+        "id": "8a9d4d3d-f8e6-478a-a359-78e18830f1bf",
+        "series": 2017,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 2,
+          "name": "Argentina",
+          "symbol": "Arg"
+        }
+      },
+      {
+        "id": "7c38c7bb-f506-498d-a60a-ae2cd38a7f9d",
+        "series": 2017,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 3,
+          "name": "Delle Americhe",
+          "symbol": "Ame"
+        }
+      },
+      {
+        "id": "6f73cfce-da66-48a4-885f-3dc7925e9214",
+        "series": 2017,
+        "race_position": 10,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 4,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "43cace19-2f55-47a1-b9b9-75773774065c",
+        "series": 2017,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 5,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "acb5bf6c-3314-4b5c-8d2f-da69d63d4e26",
+        "series": 2017,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 6,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "3bc13fc4-30cb-4929-80e0-0d72d7d1ab15",
+        "series": 2017,
+        "race_position": 8,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 7,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "e86f93d1-ea42-4dca-ae03-b4c1b03eee33",
+        "series": 2017,
+        "race_position": 1,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 8,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "cef2ec40-de07-4157-9992-445315f69c7e",
+        "series": 2017,
+        "race_position": 5,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 9,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "0aeb9c33-359a-4fbb-b92f-afaa2a1f1c78",
+        "series": 2017,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 10,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "a1888e4e-41b8-47a3-8339-98717c3b409f",
+        "series": 2017,
+        "race_position": 7,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 11,
+          "name": "Austria",
+          "symbol": "Aut"
+        }
+      },
+      {
+        "id": "be4da9c1-9252-41f8-86ae-6ed85c10918e",
+        "series": 2017,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 12,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "da8ad36b-c3bb-48b3-849c-a8971ee4f77c",
+        "series": 2017,
+        "race_position": "np",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 13,
+          "name": "San Marino",
+          "symbol": "S.Mar"
+        }
+      },
+      {
+        "id": "b0d5d061-2657-4766-b632-16bd6403cf82",
+        "series": 2017,
+        "race_position": 5,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 14,
+          "name": "Aragona",
+          "symbol": "Ara"
+        }
+      },
+      {
+        "id": "e8b4988a-3ca0-485a-a5f6-7a8b39186624",
+        "series": 2017,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 15,
+          "name": "Giappone",
+          "symbol": "Gia"
+        }
+      },
+      {
+        "id": "422ebf74-64fc-47d1-8d13-b318d59b935c",
+        "series": 2017,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 16,
+          "name": "Australia",
+          "symbol": "Aus"
+        }
+      },
+      {
+        "id": "48bea15f-f512-48a1-ad82-c45fe4c1e6bf",
+        "series": 2017,
+        "race_position": 7,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 17,
+          "name": "Malesia",
+          "symbol": "Mal"
+        }
+      },
+      {
+        "id": "a5e2de05-5d41-488d-9027-94b5ff5f4fb7",
+        "series": 2017,
+        "race_position": 5,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 18,
+          "name": "C. Valenciana",
+          "symbol": "Val"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#2D3768",
+        "percentage": 51
+      },
+      {
+        "key": "colore_2",
+        "colour": "#FEFEFE",
+        "percentage": 8
+      },
+      {
+        "key": "colore_3",
+        "colour": "#FFF254",
+        "percentage": 31
+      },
+      {
+        "key": "colore_4",
+        "colour": "#373535",
+        "percentage": 10
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "position": 3,
+    "points": 198,
+    "bike": "Yamaha YZR-M1",
+    "races_number": 19,
+    "podiums": {
+      "gold": 0,
+      "silver": 1,
+      "bronze": 4
+    },
+    "races": [
+      {
+        "id": "6eafa15b-e446-40cb-a464-51333df9cf78",
+        "series": 2018,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 1,
+          "name": "Qatar",
+          "symbol": "Qat"
+        }
+      },
+      {
+        "id": "a7a4acef-cea3-4e18-8eac-7ffd3625b0df",
+        "series": 2018,
+        "race_position": 19,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 2,
+          "name": "Argentina",
+          "symbol": "Arg"
+        }
+      },
+      {
+        "id": "e754dd05-215d-48a3-b9b0-82d99821295c",
+        "series": 2018,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 3,
+          "name": "Delle Americhe",
+          "symbol": "Ame"
+        }
+      },
+      {
+        "id": "ba1bc381-7f90-4b10-ac1b-05f7ac4397c2",
+        "series": 2018,
+        "race_position": 5,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 4,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "04833703-5aea-432b-a04e-e9129d4fcf56",
+        "series": 2018,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 5,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "3a257c7d-0bb8-4db0-875b-608a57430cb5",
+        "series": 2018,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 6,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "7d81f07a-308f-4cba-80f8-c0bd90595d2a",
+        "series": 2018,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 7,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "d54eda36-175a-47b0-b53c-90db6fe032ef",
+        "series": 2018,
+        "race_position": 5,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 8,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "3cd8e8b5-05f4-4d8b-bef1-4949b07c6166",
+        "series": 2018,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 9,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "a9d77ce4-74c9-4434-812d-381bff7301f8",
+        "series": 2018,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 10,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "f65b5d3d-3ea8-427c-a31d-c191801c9101",
+        "series": 2018,
+        "race_position": 6,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 11,
+          "name": "Austria",
+          "symbol": "Aut"
+        }
+      },
+      {
+        "id": "33d9fe21-10e4-4ffe-9229-5c15637c52d0",
+        "series": 2018,
+        "race_position": "ga",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 12,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "4271217a-d348-4d01-b347-93cc0b6237de",
+        "series": 2018,
+        "race_position": 7,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 13,
+          "name": "San Marino",
+          "symbol": "S.Mar"
+        }
+      },
+      {
+        "id": "2f80e3ea-d9f2-48be-ae25-391cc715281d",
+        "series": 2018,
+        "race_position": 8,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 14,
+          "name": "Aragona",
+          "symbol": "Ara"
+        }
+      },
+      {
+        "id": "888e06d6-1110-4ef4-af46-4538816dee6d",
+        "series": 2018,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 15,
+          "name": "Thailandia",
+          "symbol": "Tha"
+        }
+      },
+      {
+        "id": "a07b23b8-b364-458d-bd5c-557518e4f240",
+        "series": 2018,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 16,
+          "name": "Giappone",
+          "symbol": "Gia"
+        }
+      },
+      {
+        "id": "27b2af9b-9c00-4ee5-ab0d-6640656699ae",
+        "series": 2018,
+        "race_position": 6,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 17,
+          "name": "Australia",
+          "symbol": "Aus"
+        }
+      },
+      {
+        "id": "b13e75cb-1aab-4d9d-96fe-07f386c742dd",
+        "series": 2018,
+        "race_position": 18,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 18,
+          "name": "Malesia",
+          "symbol": "Mal"
+        }
+      },
+      {
+        "id": "827528e3-2220-4ab0-80de-99a66b21220a",
+        "series": 2018,
+        "race_position": 13,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 19,
+          "name": "C. Valenciana",
+          "symbol": "Val"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#2D3768",
+        "percentage": 54
+      },
+      {
+        "key": "colore_2",
+        "colour": "#FEFEFE",
+        "percentage": 5
+      },
+      {
+        "key": "colore_3",
+        "colour": "#FFF254",
+        "percentage": 31
+      },
+      {
+        "key": "colore_4",
+        "colour": "#373535",
+        "percentage": 10
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "position": 7,
+    "points": 174,
+    "bike": "Yamaha YZR-M1",
+    "races_number": 19,
+    "podiums": {
+      "gold": 0,
+      "silver": 2,
+      "bronze": 0
+    },
+    "races": [
+      {
+        "id": "5a93de86-b5f2-40f1-98ad-91ec34cc17c9",
+        "series": 2019,
+        "race_position": 5,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 1,
+          "name": "Qatar",
+          "symbol": "Qat"
+        }
+      },
+      {
+        "id": "1fcfba5e-3e9e-4c6c-91ef-ee17298136fa",
+        "series": 2019,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 2,
+          "name": "Argentina",
+          "symbol": "Arg"
+        }
+      },
+      {
+        "id": "1e2d8826-f0fe-4617-85a2-d4eefa485893",
+        "series": 2019,
+        "race_position": 2,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 3,
+          "name": "Delle Americhe",
+          "symbol": "Ame"
+        }
+      },
+      {
+        "id": "06e17a3e-fcf8-437a-9139-6a915d12ccb5",
+        "series": 2019,
+        "race_position": 6,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 4,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "3e531146-2c8c-49ce-94a7-b75ca95941c2",
+        "series": 2019,
+        "race_position": 5,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 5,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "69ed029d-be3c-4f62-ae58-6e3faccab854",
+        "series": 2019,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 6,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "ed08c19f-5611-447d-9c93-347b3b1ab8e8",
+        "series": 2019,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 7,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "57c70605-6834-41a9-8adb-b1b7533c627f",
+        "series": 2019,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 8,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "6f9fde6a-3ca9-4c84-9845-03df8fc9a041",
+        "series": 2019,
+        "race_position": 8,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 9,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "d49f4086-3cbb-4aa9-8613-badde790038a",
+        "series": 2019,
+        "race_position": 6,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 10,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "4d87a98e-6de6-4d18-874a-3c5c5a2e765b",
+        "series": 2019,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 11,
+          "name": "Austria",
+          "symbol": "Aut"
+        }
+      },
+      {
+        "id": "d3ecf439-8f91-4afc-b971-300ff6640005",
+        "series": 2019,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 12,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "f92ab065-bbd6-438b-adfa-af87453a212d",
+        "series": 2019,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 13,
+          "name": "San Marino",
+          "symbol": "S.Mar"
+        }
+      },
+      {
+        "id": "2fb7436c-44b8-491a-a723-33173b3c6593",
+        "series": 2019,
+        "race_position": 8,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 14,
+          "name": "Aragona",
+          "symbol": "Ara"
+        }
+      },
+      {
+        "id": "7ceaef5e-119b-42fc-b930-2b90491a5ba4",
+        "series": 2019,
+        "race_position": 8,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 15,
+          "name": "Thailandia",
+          "symbol": "Tha"
+        }
+      },
+      {
+        "id": "b72d4581-0790-4d9b-b467-1d1e1ac7a311",
+        "series": 2019,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 16,
+          "name": "Giappone",
+          "symbol": "Gia"
+        }
+      },
+      {
+        "id": "ce499f87-7e06-453c-a56d-b9edd5da45af",
+        "series": 2019,
+        "race_position": 8,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 17,
+          "name": "Australia",
+          "symbol": "Aus"
+        }
+      },
+      {
+        "id": "9a9b0f6e-70ef-4aac-bbaa-514f586520fc",
+        "series": 2019,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 18,
+          "name": "Malesia",
+          "symbol": "Mal"
+        }
+      },
+      {
+        "id": "bff54519-b831-49e0-bd0b-85ab251533ff",
+        "series": 2019,
+        "race_position": 8,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 19,
+          "name": "C. Valenciana",
+          "symbol": "Val"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#2D3768",
+        "percentage": 32
+      },
+      {
+        "key": "colore_2",
+        "colour": "#FEFEFE",
+        "percentage": 32
+      },
+      {
+        "key": "colore_3",
+        "colour": "#373535",
+        "percentage": 36
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "position": 15,
+    "points": 66,
+    "bike": "Yamaha YZR-M1",
+    "races_number": 15,
+    "podiums": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1
+    },
+    "races": [
+      {
+        "id": "ff5e78d3-7323-4c10-86fa-4780fd204329",
+        "series": 2020,
+        "race_position": "ga",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 1,
+          "name": "Qatar",
+          "symbol": "Qat"
+        }
+      },
+      {
+        "id": "775630cb-41f7-48a3-a6d4-9174a3c853d0",
+        "series": 2020,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 2,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "b4cc4dcf-e5b4-4c19-9706-3cbf97b1ef4d",
+        "series": 2020,
+        "race_position": 3,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 3,
+          "name": "Andalusia",
+          "symbol": "And"
+        }
+      },
+      {
+        "id": "816add25-292c-4100-883a-0ca47cc6141b",
+        "series": 2020,
+        "race_position": 5,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 4,
+          "name": "Rep. Ceca",
+          "symbol": "R.Cec"
+        }
+      },
+      {
+        "id": "9e66ddb2-f04f-4624-ba33-acb40bed7eca",
+        "series": 2020,
+        "race_position": 5,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 5,
+          "name": "Austria",
+          "symbol": "Aut"
+        }
+      },
+      {
+        "id": "59cb875f-c996-45f0-930c-22a0a5cd339c",
+        "series": 2020,
+        "race_position": 9,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 6,
+          "name": "Stiria",
+          "symbol": "Sti"
+        }
+      },
+      {
+        "id": "19c31d59-f905-4c54-8207-e6ee4094b377",
+        "series": 2020,
+        "race_position": 4,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 7,
+          "name": "San Marino",
+          "symbol": "S.Mar"
+        }
+      },
+      {
+        "id": "0a286a9c-74fe-48b1-9738-b489ecea716f",
+        "series": 2020,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 8,
+          "name": "Emilia Romagna",
+          "symbol": "E.Rom"
+        }
+      },
+      {
+        "id": "e8301eab-7355-4a43-87bb-90583db68a26",
+        "series": 2020,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 9,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "67867508-5b6e-4e3d-9a02-67d470ce2df2",
+        "series": 2020,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 10,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "6a31b52b-02d6-4bad-8729-7b24adb441ed",
+        "series": 2020,
+        "race_position": "np",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 11,
+          "name": "Aragona",
+          "symbol": "Ara"
+        }
+      },
+      {
+        "id": "14fc0b42-fee0-416d-9f31-8498d5dab31c",
+        "series": 2020,
+        "race_position": "np",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 12,
+          "name": "Teruel",
+          "symbol": "Ter"
+        }
+      },
+      {
+        "id": "4d2063fd-0bef-4dc1-bdea-2777ed82eed0",
+        "series": 2020,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 13,
+          "name": "Europa",
+          "symbol": "Eur"
+        }
+      },
+      {
+        "id": "a66b2ac1-74d9-479d-b9c4-1e5e0fbf4324",
+        "series": 2020,
+        "race_position": 12,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 14,
+          "name": "C. Valenciana",
+          "symbol": "Val"
+        }
+      },
+      {
+        "id": "5401d2dc-c290-4bbb-865c-0b26ee84d81f",
+        "series": 2020,
+        "race_position": 12,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 15,
+          "name": "Portogallo",
+          "symbol": "Por"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#2D3768",
+        "percentage": 33
+      },
+      {
+        "key": "colore_2",
+        "colour": "#FEFEFE",
+        "percentage": 30
+      },
+      {
+        "key": "colore_3",
+        "colour": "#373535",
+        "percentage": 37
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "position": "",
+    "points": "",
+    "bike": "Yamaha YZR-M1",
+    "races_number": 18,
+    "podiums": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    },
+    "races": [
+      {
+        "id": "ecd59b15-46e0-4f62-9e2b-1596c8820fab",
+        "series": 2021,
+        "race_position": 12,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 1,
+          "name": "Qatar",
+          "symbol": "Qat"
+        }
+      },
+      {
+        "id": "c4e3d9d0-0e1a-42ef-b581-7273b9955803",
+        "series": 2021,
+        "race_position": 13,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 2,
+          "name": "Doha",
+          "symbol": "Doh"
+        }
+      },
+      {
+        "id": "0a9a58be-93e0-4c98-be7d-a4acc1c40660",
+        "series": 2021,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 3,
+          "name": "Portogallo",
+          "symbol": "Por"
+        }
+      },
+      {
+        "id": "c56c7b08-6567-4968-b5fa-2d68b61c8aa0",
+        "series": 2021,
+        "race_position": 16,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 4,
+          "name": "Spagna",
+          "symbol": "Spa"
+        }
+      },
+      {
+        "id": "64e8aeaf-c656-4046-a0f0-109982ae5a17",
+        "series": 2021,
+        "race_position": 11,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 5,
+          "name": "Francia",
+          "symbol": "Fra"
+        }
+      },
+      {
+        "id": "0e6a8f93-72d0-4546-b34d-84d5a50c0799",
+        "series": 2021,
+        "race_position": 10,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 6,
+          "name": "Italia",
+          "symbol": "Ita"
+        }
+      },
+      {
+        "id": "9bf40e0c-2678-492f-a41d-98a7ca8d82c3",
+        "series": 2021,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 7,
+          "name": "Catalogna",
+          "symbol": "Cat"
+        }
+      },
+      {
+        "id": "d70e2a70-7232-4568-8863-24035199a16c",
+        "series": 2021,
+        "race_position": 14,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 8,
+          "name": "Germania",
+          "symbol": "Ger"
+        }
+      },
+      {
+        "id": "247fd39d-8f08-4126-acfd-a2160e037664",
+        "series": 2021,
+        "race_position": "rit",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 9,
+          "name": "Olanda",
+          "symbol": "Ola"
+        }
+      },
+      {
+        "id": "a1748037-5a76-432a-bd9c-9a9ef86adbad",
+        "series": 2021,
+        "race_position": 13,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 10,
+          "name": "Stiria",
+          "symbol": "Sti"
+        }
+      },
+      {
+        "id": "b45d5f1c-50f2-42df-93bd-06b6103cd6a4",
+        "series": 2021,
+        "race_position": 8,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 11,
+          "name": "Austria",
+          "symbol": "Aut"
+        }
+      },
+      {
+        "id": "06ae6164-c5fe-458c-8060-d4b6ce1bfb5f",
+        "series": 2021,
+        "race_position": 18,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 12,
+          "name": "Gran Bretagna",
+          "symbol": "Gbr"
+        }
+      },
+      {
+        "id": "fd515321-89c7-48b2-86ab-3e73a11ff504",
+        "series": 2021,
+        "race_position": 19,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 13,
+          "name": "Aragona",
+          "symbol": "Ara"
+        }
+      },
+      {
+        "id": "2b89781b-2e79-4f79-8ea5-64f915f9f00f",
+        "series": 2021,
+        "race_position": 17,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 14,
+          "name": "San Marino",
+          "symbol": "S.Mar"
+        }
+      },
+      {
+        "id": "636c27fb-b1f9-4ead-a0a9-185ac331e007",
+        "series": 2021,
+        "race_position": 15,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 15,
+          "name": "Delle Americhe",
+          "symbol": "Ame"
+        }
+      },
+      {
+        "id": "c064d075-03ae-491f-8482-c7ba130482e4",
+        "series": 2021,
+        "race_position": 10,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 16,
+          "name": "Misano",
+          "symbol": "Mis"
+        }
+      },
+      {
+        "id": "2d83c6c8-ca48-42c6-8a15-356eab4a890c",
+        "series": 2021,
+        "race_position": 13,
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 17,
+          "name": "Algarve",
+          "symbol": "Alg"
+        }
+      },
+      {
+        "id": "2d0a8403-866e-4235-9148-ff65e78c1c09",
+        "series": 2021,
+        "race_position": "",
+        "bike": "Yamaha YZR-M1",
+        "track": {
+          "order": 18,
+          "name": "C. Valenciana",
+          "symbol": "Val"
+        }
+      }
+    ],
+    "suit": [
+      {
+        "key": "colore_1",
+        "colour": "#707573",
+        "percentage": 32
+      },
+      {
+        "key": "colore_2",
+        "colour": "#87C9D9",
+        "percentage": 15
+      },
+      {
+        "key": "colore_3",
+        "colour": "#FFF254",
+        "percentage": 22
+      },
+      {
+        "key": "colore_4",
+        "colour": "#373535",
+        "percentage": 31
+      }
+    ]
+  }
+]
